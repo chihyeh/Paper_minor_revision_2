@@ -1,0 +1,260 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Mangano:2018mur}
+M.~Mangano, et~al., \href{https://cds.cern.ch/record/2651294}{{Future Circular
+  Collider : Vol. 1 Physics opportunities}}, Tech. Rep. CERN-ACC-2018-0056
+  (2018).
+\newline\urlprefix\url{https://cds.cern.ch/record/2651294}
+
+\bibitem{Benedikt:2018csr}
+M.~Benedikt, et~al., \href{https://cds.cern.ch/record/2651300}{{Future Circular
+  Collider : Vol. 3 The Hadron Collider (FCC-hh)}}, Tech. Rep.
+  CERN-ACC-2018-0058 (2019).
+\newline\urlprefix\url{https://cds.cern.ch/record/2651300}
+
+\bibitem{Zimmermann:2018wdi}
+F.~Zimmermann, et~al., \href{https://cds.cern.ch/record/2651305}{{Future
+  Circular Collider : Vol. 4 The High-Energy LHC (HE-LHC)}}, Tech. Rep.
+  CERN-ACC-2018-0059 (2019).
+\newline\urlprefix\url{https://cds.cern.ch/record/2651305}
+
+\bibitem{Tang:2015qga}
+J.~Tang, et~al., {Concept for a Future Super Proton-Proton Collider} (2015).
+\newblock \href {http://arxiv.org/abs/1507.03224} {\path{arXiv:1507.03224}}.
+
+\bibitem{Calkins:2013ega}
+R.~Calkins, et~al.,
+  \href{https://inspirehep.net/record/1244676/files/arXiv:1307.6908.pdf}{{Reconstructing
+  top quarks at the upgraded LHC and at future accelerators}}, in:
+  {Proceedings, Community Summer Study 2013: Snowmass on the Mississippi
+  (CSS2013): Minneapolis, MN, USA, July 29-August 6}, 2013.
+\newblock \href {http://arxiv.org/abs/1307.6908} {\path{arXiv:1307.6908}}.
+\newline\urlprefix\url{https://inspirehep.net/record/1244676/files/arXiv:1307.6908.pdf}
+
+\bibitem{Chekanov:2015ihl}
+S.~V. Chekanov, J.~Dull, {Energy range of hadronic calorimeter towers and cells
+  for high-pT jets at a 100 TeV collider.}\href
+  {http://arxiv.org/abs/1511.01468} {\path{arXiv:1511.01468}}.
+
+\bibitem{Coleman:2017fiq}
+E.~Coleman, M.~Freytsis, A.~Hinzmann, M.~Narain, J.~Thaler, N.~Tran,
+  C.~Vernieri, {The importance of calorimetry for highly-boosted jet
+  substructure}\href {http://arxiv.org/abs/1709.08705}
+  {\path{arXiv:1709.08705}}.
+
+\bibitem{deFavereau:2013fsa}
+DELPHES 3~Collaboration, J.~de~Favereau, C.~Delaere, P.~Demin, A.~Giammanco,
+  V.~Lemaître, A.~Mertens, M.~Selvaggi, {DELPHES 3, A modular framework for
+  fast simulation of a generic collider experiment}, JHEP 02 (2014) 057.
+\newblock \href {http://arxiv.org/abs/1307.6346} {\path{arXiv:1307.6346}},
+  \href {http://dx.doi.org/10.1007/JHEP02(2014)057}
+  {\path{doi:10.1007/JHEP02(2014)057}}.
+
+\bibitem{Chekanov:2016ppq}
+S.~V. Chekanov, M.~Beydler, A.~V. Kotwal, L.~Gray, S.~Sen, N.~V. Tran, S.~S.
+  Yu, J.~Zuzelski, {Initial performance studies of a general-purpose detector
+  for multi-TeV physics at a 100 TeV pp collider}, JINST 12~(06) (2017) P06009.
+\newblock \href {http://arxiv.org/abs/1612.07291} {\path{arXiv:1612.07291}},
+  \href {http://dx.doi.org/10.1088/1748-0221/12/06/P06009}
+  {\path{doi:10.1088/1748-0221/12/06/P06009}}.
+
+\bibitem{Allison2016186}
+J.~Allison, et~al., {Recent developments in Geant4}, Nuclear Instruments and
+  Methods in Physics Research A 835 (2016) 186.
+
+\bibitem{Charles:2009ta}
+M.~J. Charles, {PFA Performance for SiD}, in: {Linear colliders. Proceedings,
+  International Linear Collider Workshop, LCWS08, and International Linear
+  Collider Meeting, ILC08, Chicago, USA, Novermber 16-20, 2008 }, 2009.
+\newblock \href {http://arxiv.org/abs/0901.4670} {\path{arXiv:0901.4670}}.
+
+\bibitem{Marshall:2013bda}
+J.~S. Marshall, M.~A. Thomson, {Pandora Particle Flow Algorithm}, in:
+  {Proceedings, International Conference on Calorimetry for the High Energy
+  Frontier (CHEF 2013)}, 2013, pp. 305--315.
+\newblock \href {http://arxiv.org/abs/1308.4537} {\path{arXiv:1308.4537}}.
+
+\bibitem{THOMSON200925}
+M.~Thomson,
+  \href{http://www.sciencedirect.com/science/article/pii/S0168900209017264}{Particle
+  flow calorimetry and the pandorapfa algorithm}, Nuclear Instruments and
+  Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors
+  and Associated Equipment 611~(1) (2009) 25 -- 40.
+\newblock \href {http://dx.doi.org/https://doi.org/10.1016/j.nima.2009.09.009}
+  {\path{doi:https://doi.org/10.1016/j.nima.2009.09.009}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0168900209017264}
+
+\bibitem{Behnke:2013lya}
+H.~Abramowicz, et~al., {The International Linear Collider Technical Design
+  Report - Volume 4: Detectors}, Tech. Rep. ILC-REPORT-2013-040,
+  ANL-HEP-TR-13-20, BNL-100603-2013-IR, IRFU-13-59, CERN-ATS-2013-037,
+  COCKCROFT-13-10, CLNS-13-2085, DESY-13-062, FERMILAB-TM-2554,
+  IHEP-AC-ILC-2013-001, INFN-13-04-LNF, JAI-2013-001, JINR-E9-2013-35,
+  JLAB-R-2013-01, KEK-REPORT-2013-1, KNU-CHEP-ILC-2013-1, LLNL-TR-635539,
+  SLAC-R-1004, ILC-HIGRADE-REPORT-2013-003 (2013).
+\newblock \href {http://arxiv.org/abs/1306.6329} {\path{arXiv:1306.6329}}.
+
+\bibitem{fastjet}
+G.~P.~S. M.~Cacciari, G.~Soyez, {{FastJet user manual }}CERN-PH-TH/2011-297.
+\newblock \href {http://arxiv.org/abs/1111.6097} {\path{arXiv:1111.6097}}.
+
+\bibitem{Cacciari:2008gp}
+M.~Cacciari, G.~P. Salam, G.~Soyez, {The anti-kt jet clustering algorithm},
+  JHEP 0804 (2008) 063.
+\newblock \href {http://arxiv.org/abs/0802.1189} {\path{arXiv:0802.1189}}.
+
+\bibitem{Langacker:2008yv}
+P.~Langacker, {The Physics of Heavy $Z^\prime$ Gauge Bosons}, Rev. Mod. Phys.
+  81 (2009) 1199--1228.
+\newblock \href {http://arxiv.org/abs/0801.1345} {\path{arXiv:0801.1345}},
+  \href {http://dx.doi.org/10.1103/RevModPhys.81.1199}
+  {\path{doi:10.1103/RevModPhys.81.1199}}.
+
+\bibitem{Leike:1998wr}
+A.~Leike, {The Phenomenology of extra neutral gauge bosons}, Phys. Rept. 317
+  (1999) 143--250.
+\newblock \href {http://arxiv.org/abs/hep-ph/9805494}
+  {\path{arXiv:hep-ph/9805494}}, \href
+  {http://dx.doi.org/10.1016/S0370-1573(98)00133-1}
+  {\path{doi:10.1016/S0370-1573(98)00133-1}}.
+
+\bibitem{Rosner:1996eb}
+J.~L. Rosner, {Prominent decay modes of a leptophobic $Z^\prime$}, Phys. Lett.
+  B387 (1996) 113--117.
+\newblock \href {http://arxiv.org/abs/hep-ph/9607207}
+  {\path{arXiv:hep-ph/9607207}}, \href
+  {http://dx.doi.org/10.1016/0370-2693(96)01022-2}
+  {\path{doi:10.1016/0370-2693(96)01022-2}}.
+
+\bibitem{Sjostrand:2006za}
+T.~Sjostrand, S.~Mrenna, P.~Z. Skands, {PYTHIA 6.4 Physics and Manual}, JHEP 05
+  (2006) 026.
+\newblock \href {http://arxiv.org/abs/hep-ph/0603175}
+  {\path{arXiv:hep-ph/0603175}}.
+
+\bibitem{Chekanov:2014fga}
+S.~Chekanov, {HepSim: a repository with predictions for high-energy physics
+  experiments}, Advances in High Energy Physics 2015 (2015) 136093, available
+  as \url{http://atlaswww.hep.anl.gov/hepsim/}.
+
+\bibitem{Auerbach:2014xua}
+B.~Auerbach, S.~Chekanov, J.~Love, J.~Proudfoot, A.~Kotwal, {Sensitivity to new
+  high-mass states decaying to ttbar at a 100 TeV collider }\href
+  {http://arxiv.org/abs/1412.5951} {\path{arXiv:1412.5951}}.
+
+\bibitem{Butterworth:2002tt}
+J.~Butterworth, B.~Cox, J.~R. Forshaw, {$W W$ scattering at the CERN LHC},
+  Phys.Rev. D65 (2002) 096014.
+\newblock \href {http://arxiv.org/abs/hep-ph/0201098}
+  {\path{arXiv:hep-ph/0201098}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.65.096014}
+  {\path{doi:10.1103/PhysRevD.65.096014}}.
+
+\bibitem{Catani1993187}
+S.~Catani, Y.~L. Dokshitzer, M.~H. Seymour, B.~R. Webber,
+  \href{http://www.sciencedirect.com/science/article/pii/055032139390166M}{Longitudinally-invariant
+  k⊥-clustering algorithms for hadron-hadron collisions}, Nuclear Physics B
+  406~(1–2) (1993) 187 -- 224.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/055032139390166M}
+
+\bibitem{Ellis:1993tq}
+S.~D. Ellis, D.~E. Soper, {Successive combination jet algorithm for hadron
+  collisions}, Phys. Rev. D48 (1993) 3160--3166.
+\newblock \href {http://arxiv.org/abs/hep-ph/9305266}
+  {\path{arXiv:hep-ph/9305266}}, \href
+  {http://dx.doi.org/10.1103/PhysRevD.48.3160}
+  {\path{doi:10.1103/PhysRevD.48.3160}}.
+
+\bibitem{ATLAS:2012am}
+{ATLAS Collaboration}~Collaboration, G.~Aad, et~al., {Jet mass and substructure
+  of inclusive jets in $\sqrt{s}=7$ TeV $pp$ collisions with the ATLAS
+  experiment}, JHEP 1205 (2012) 128.
+\newblock \href {http://arxiv.org/abs/1203.4606} {\path{arXiv:1203.4606}},
+  \href {http://dx.doi.org/10.1007/JHEP05(2012)128}
+  {\path{doi:10.1007/JHEP05(2012)128}}.
+
+\bibitem{fcc1}
+C.~Neub{\"u}ser, Performance studies and requirements on the calorimeters for a
+  fcc-hh experiment, in: Z.-A. Liu (Ed.), Proceedings of International
+  Conference on Technology and Instrumentation in Particle Physics 2017,
+  Springer Singapore, Singapore, 2018, pp. 37--43.
+
+\bibitem{fcc2}
+J.~Faltova, \href{http://stacks.iop.org/1748-0221/13/i=03/a=C03016}{Design and
+  performance studies of a hadronic calorimeter for a fcc-hh experiment},
+  Journal of Instrumentation 13~(03) (2018) C03016.
+\newline\urlprefix\url{http://stacks.iop.org/1748-0221/13/i=03/a=C03016}
+
+\bibitem{Larkoski:2014wba}
+A.~J. Larkoski, S.~Marzani, G.~Soyez, J.~Thaler, {Soft Drop}, JHEP 05 (2014)
+  146.
+\newblock \href {http://arxiv.org/abs/1402.2657} {\path{arXiv:1402.2657}},
+  \href {http://dx.doi.org/10.1007/JHEP05(2014)146}
+  {\path{doi:10.1007/JHEP05(2014)146}}.
+
+\bibitem{Dokshitzer:1997in}
+Y.~L. Dokshitzer, G.~D. Leder, S.~Moretti, B.~R. Webber, {Better jet clustering
+  algorithms}, JHEP 08 (1997) 001.
+\newblock \href {http://arxiv.org/abs/hep-ph/9707323}
+  {\path{arXiv:hep-ph/9707323}}, \href
+  {http://dx.doi.org/10.1088/1126-6708/1997/08/001}
+  {\path{doi:10.1088/1126-6708/1997/08/001}}.
+
+\bibitem{Wobisch:1998wt}
+M.~Wobisch, T.~Wengler, {Hadronization corrections to jet cross-sections in
+  deep inelastic scattering}, in: {Monte Carlo generators for HERA physics.
+  Proceedings, Workshop, Hamburg, Germany, 1998-1999}, 1998, pp. 270--279.
+\newblock \href {http://arxiv.org/abs/hep-ph/9907280}
+  {\path{arXiv:hep-ph/9907280}}.
+
+\bibitem{CMS:2017wyc}
+CMS~Collaboration, C.~Collaboration, {Jet algorithms performance in 13 TeV
+  data}.
+
+\bibitem{Tripathee:2017ybi}
+A.~Tripathee, W.~Xue, A.~Larkoski, S.~Marzani, J.~Thaler, {Jet Substructure
+  Studies with CMS Open Data}, Phys. Rev. D96~(7) (2017) 074003.
+\newblock \href {http://arxiv.org/abs/1704.05842} {\path{arXiv:1704.05842}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.96.074003}
+  {\path{doi:10.1103/PhysRevD.96.074003}}.
+
+\bibitem{Aaboud:2017qwh}
+ATLAS~Collaboration, M.~Aaboud, et~al., {Measurement of the Soft-Drop Jet Mass
+  in pp Collisions at $\sqrt{s} = 13$ TeV with the ATLAS Detector}, Phys. Rev.
+  Lett. 121~(9) (2018) 092001.
+\newblock \href {http://arxiv.org/abs/1711.08341} {\path{arXiv:1711.08341}},
+  \href {http://dx.doi.org/10.1103/PhysRevLett.121.092001}
+  {\path{doi:10.1103/PhysRevLett.121.092001}}.
+
+\bibitem{Thaler:2010tr}
+J.~Thaler, K.~Van~Tilburg, {Identifying Boosted Objects with N-subjettiness},
+  JHEP 03 (2011) 015.
+\newblock \href {http://arxiv.org/abs/1011.2268} {\path{arXiv:1011.2268}},
+  \href {http://dx.doi.org/10.1007/JHEP03(2011)015}
+  {\path{doi:10.1007/JHEP03(2011)015}}.
+
+\bibitem{Catani:246812}
+S.~Catani, Y.~L. Dokshitzer, M.~H. Seymour, B.~R. Webber,
+  Longitudinally-invariant k$_{\perp}$-clustering algorithms for hadron-hadron
+  collisions, Nucl. Phys. B 406~(CERN-TH-6775-93. LU-TP-93-2) (1993) 187--224.
+
+\bibitem{Dreyer:2018tjj}
+F.~A. Dreyer, L.~Necib, G.~Soyez, J.~Thaler, {Recursive Soft Drop}, JHEP 06
+  (2018) 093.
+\newblock \href {http://arxiv.org/abs/1804.03657} {\path{arXiv:1804.03657}},
+  \href {http://dx.doi.org/10.1007/JHEP06(2018)093}
+  {\path{doi:10.1007/JHEP06(2018)093}}.
+
+\bibitem{Larkoski:2013eya}
+A.~J. Larkoski, G.~P. Salam, J.~Thaler, {Energy Correlation Functions for Jet
+  Substructure}, JHEP 06 (2013) 108.
+\newblock \href {http://arxiv.org/abs/1305.0007} {\path{arXiv:1305.0007}},
+  \href {http://dx.doi.org/10.1007/JHEP06(2013)108}
+  {\path{doi:10.1007/JHEP06(2013)108}}.
+
+\end{thebibliography}

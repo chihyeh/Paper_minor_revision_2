@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: fcc_hcal_revision.aux
+The style file: elsarticle-num.bst
+Database file #1: biblio.bib
+I was expecting a `,' or a `}'---line 156 of file biblio.bib
+ : 
+ : @techreport{Benedikt:2018csr,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 658 of file biblio.bib
+ : @inproceedings{Behnke:2013lya
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1547 of file biblio.bib
+ : @article{Thomson200925
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--empty institution in Mangano:2018mur
+Warning--empty institution in Benedikt:2018csr
+Warning--empty institution in Zimmermann:2018wdi
+Warning--empty pages in Calkins:2013ega
+Warning--empty journal in Chekanov:2015ihl
+Warning--empty journal in Coleman:2017fiq
+Warning--empty pages in Charles:2009ta
+Warning--empty institution in Behnke:2013lya
+Warning--empty journal in fastjet
+Warning--empty journal in Auerbach:2014xua
+Warning--empty journal in CMS:2017wyc
+You've used 38 entries,
+            2955 wiz_defined-function locations,
+            971 strings with 13107 characters,
+and the built_in function-call counts, 11733 in all, are:
+= -- 1139
+> -- 351
+< -- 7
++ -- 142
+- -- 104
+* -- 970
+:= -- 1586
+add.period$ -- 63
+call.type$ -- 38
+change.case$ -- 44
+chr.to.int$ -- 0
+cite$ -- 49
+duplicate$ -- 373
+empty$ -- 1320
+format.name$ -- 133
+if$ -- 3049
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 33
+newline$ -- 154
+num.names$ -- 40
+pop$ -- 216
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 771
+stack$ -- 0
+substring$ -- 447
+swap$ -- 150
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 11
+while$ -- 69
+width$ -- 40
+write$ -- 388
+(There were 3 error messages)
