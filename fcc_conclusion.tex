@@ -20,8 +20,15 @@ It also confirms the HCAL design of the baseline FCC-hh~\cite{fcc1,fcc2} detecto
 $\Delta \eta \times \Delta \phi = 0.025\times0.025$ HCAL cells.
 
 It interesting to note that,  for very boosted jets with transverse momenta close to 20~TeV, further decrease of cell size to $\Delta \eta \times \Delta \phi = 0.0043\times0.0043$ did not 
- definitively show a further improvement in performance. 
- This result needs to be understood in terms of various types of simulations and 
-different options for reconstruction of the calorimeter clusters.
+ definitively show a further improvement in performance. It should be noted that the clustering algorithm used for reconstruction
+of clusters from the calorimeter hits created by the Geant4 simulation 
+has been tuned to reflect the small cell sizes of the SiD calorimeter. 
+However, the energy range of the hits for the tens-of-TeV jets studied 
+in this paper may not be optimal for this algorithm. Therefore, this 
+result needs to be understood in terms of various types of simulations 
+and different options for reconstruction of the calorimeter clusters. 
+The effect of changing parameters of this clustering algorithm will be 
+our essential step for future studies. Even more, the complex 
+circumstance of adding the pileup could be studied to understand the 
+realistic data-taking  conditions for future 100 TeV colliders.
 
-The effect of changing clustering parameters which are used to reconstruct the events impacts on the results of jet performance will be our essential step for the future. Furthermore, optimizing the cell size of the detector with loads of simulations to pick out the best separation capability for distinguishing the different amount of subjets must be required to figure out as well. Even more, the complex circumstance of adding the pileup could be done to understand the realistic conditions of future collider that will drop in.
